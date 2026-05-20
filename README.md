@@ -40,6 +40,6 @@ Complaint vs loan size correlation
 Customers with both: 
 high loans 
 high complaints 
-
+https://public.tableau.com/app/profile/nada.seddique/vizzes
 
 
